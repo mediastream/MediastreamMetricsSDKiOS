@@ -135,7 +135,7 @@ Todos los eventos deben contener en su estructura: content_id* playback_id* uniq
 # MediastreamMetricsSDK
 ## Integración
 
-Añada en su archivo de librerías de android la siguiente dependencia:
+Añada en su archivo de librerías la siguiente dependencia POD:
 
 ```java
 pod 'MediastreamTrackeriOS'
